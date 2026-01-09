@@ -24,3 +24,18 @@ quick navigation within texts.
 ​Custom Themes: A curated palette of 12 vibrant themes (from Fuchsia to Royal Blue) that adapt the entire UI to your preference.
 
 ​Safety First: Double-confirmation prompts for all destructive actions to prevent accidental data loss.
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_427.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_241.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_185.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_647.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_662.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_685.jpg" width="300">
+
+<img src="https://github.com/NuromenPt/iNDiGOPAD2/blob/main/IMG_20260109_195823_729.jpg" width="300">
+
